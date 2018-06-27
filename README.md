@@ -1,2 +1,5 @@
 # hello-world
-Something new
+
+Hello!
+
+I've been programmer for about 3 years now.
